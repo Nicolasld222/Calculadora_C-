@@ -1,0 +1,16 @@
+C:\Users\Aprendiz\Documents\ADSO 2994283\CAlculadoraC#\CAlculadoraC#\obj\Debug\net8.0-windows\CAlculadoraC_.Form1.resources
+C:\Users\Aprendiz\Documents\ADSO 2994283\CAlculadoraC#\CAlculadoraC#\obj\Debug\net8.0-windows\CAlculadoraC#.csproj.GenerateResource.cache
+C:\Users\Aprendiz\Documents\ADSO 2994283\CAlculadoraC#\CAlculadoraC#\obj\Debug\net8.0-windows\CAlculadoraC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aprendiz\Documents\ADSO 2994283\CAlculadoraC#\CAlculadoraC#\obj\Debug\net8.0-windows\CAlculadoraC#.AssemblyInfoInputs.cache
+C:\Users\Aprendiz\Documents\ADSO 2994283\CAlculadoraC#\CAlculadoraC#\obj\Debug\net8.0-windows\CAlculadoraC#.AssemblyInfo.cs
+C:\Users\Aprendiz\Documents\ADSO 2994283\CAlculadoraC#\CAlculadoraC#\obj\Debug\net8.0-windows\CAlculadoraC#.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz\Documents\ADSO 2994283\CAlculadoraC#\CAlculadoraC#\bin\Debug\net8.0-windows\CAlculadoraC#.exe
+C:\Users\Aprendiz\Documents\ADSO 2994283\CAlculadoraC#\CAlculadoraC#\bin\Debug\net8.0-windows\CAlculadoraC#.deps.json
+C:\Users\Aprendiz\Documents\ADSO 2994283\CAlculadoraC#\CAlculadoraC#\bin\Debug\net8.0-windows\CAlculadoraC#.runtimeconfig.json
+C:\Users\Aprendiz\Documents\ADSO 2994283\CAlculadoraC#\CAlculadoraC#\bin\Debug\net8.0-windows\CAlculadoraC#.dll
+C:\Users\Aprendiz\Documents\ADSO 2994283\CAlculadoraC#\CAlculadoraC#\bin\Debug\net8.0-windows\CAlculadoraC#.pdb
+C:\Users\Aprendiz\Documents\ADSO 2994283\CAlculadoraC#\CAlculadoraC#\obj\Debug\net8.0-windows\CAlculadoraC#.dll
+C:\Users\Aprendiz\Documents\ADSO 2994283\CAlculadoraC#\CAlculadoraC#\obj\Debug\net8.0-windows\refint\CAlculadoraC#.dll
+C:\Users\Aprendiz\Documents\ADSO 2994283\CAlculadoraC#\CAlculadoraC#\obj\Debug\net8.0-windows\CAlculadoraC#.pdb
+C:\Users\Aprendiz\Documents\ADSO 2994283\CAlculadoraC#\CAlculadoraC#\obj\Debug\net8.0-windows\CAlculadoraC#.genruntimeconfig.cache
+C:\Users\Aprendiz\Documents\ADSO 2994283\CAlculadoraC#\CAlculadoraC#\obj\Debug\net8.0-windows\ref\CAlculadoraC#.dll
